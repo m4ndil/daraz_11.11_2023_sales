@@ -163,7 +163,3 @@ Specify an appropriate license for this dataset and repository. If this data is 
 ## Contact / Maintainer
 
 If you have questions about the dataset or need additional processing, contact the maintainer listed in this repository (or open an issue).
-
----
-
-*Generated README — use this as the baseline documentation for working with the 11.11 Sale 2023 top-selling product data.*
